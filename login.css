@@ -1,3 +1,4 @@
+/* this changes will appear in entire body part.(to all the content which is present in body )*/
 body{
     display: flex;
     justify-content: center;
