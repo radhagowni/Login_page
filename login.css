@@ -74,6 +74,7 @@ body{
     color: black;
     font-weight: 600;
 }
+/*  this is to change the colour,size when pointer goes on that button */
 .wrapper .btn:hover{
     background:linear-gradient(skyblue,lightgreen);
 }
