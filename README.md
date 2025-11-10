@@ -3,3 +3,5 @@ A simple and responsive Login Page built using HTML and CSS.This project demonst
 
 You have to enter your username and password to login.
 If not, there will be a register option. 
+
+We have used Username and Password as placeholders.
