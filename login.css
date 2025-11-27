@@ -38,6 +38,7 @@ body{
     color: black;
     padding: 20px 45px 20px 20px;
 }
+/* here are choosing the colour of the input as black */
 .input-box input::placeholder
 {
     color:black;
